@@ -1,2 +1,2 @@
 # Test
-<a href="index.php">Index</a>
+<a href="index.html">Index</a>
